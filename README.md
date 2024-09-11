@@ -15,3 +15,4 @@ Email Alert: An email is sent to the car owner's emergency contacts and insuranc
 The proposed system's efficacy is evaluated through extensive simulations and real-world testing, demonstrating high accuracy in accident detection and timely activation of the emergency response. This integration of deep learning with OpenCV and an automated alert system aims to reduce response times and enhance the chances of survival and support in the critical moments following a car accident.
 
 Keywords: Car Accident Detection, Deep Learning, OpenCV, Emergency Response System, Intelligent Transportation Systems, Automated Emergency Call, Message Notification, Email Alert.
+Dataset link :https://www.kaggle.com/search?q=accident+detection+using+cctv

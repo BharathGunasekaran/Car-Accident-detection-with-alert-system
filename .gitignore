@@ -1,1 +1,7 @@
 Myenv/
+data/
+.env
+__pycache__/
+.vscode/
+final/
+model/
